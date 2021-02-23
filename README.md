@@ -10,9 +10,9 @@
 ✨ Dotfiles are the customization files that are used to personalize your Linux or other Unix-based system. The period at the beginning of a filename or directory name indicates that it is a hidden file or directory.  This repository contains my personal dotfiles. They are stored here for convenience so that I may quickly access them on new machines or new installs.  Also, others may find some of my configurations helpful in customizing their own dotfiles. ✨
 
 ## My Window Manager Configs
-- [i3](https://github.com/Dotfiles/.config/i3/)
-- [Polybar](https://github.com/Dotfiles/.config/polybar/)
-- [Neofetch](https://github.com/Dotfiles/.config/neofetch/)
+- [i3](https://github.com/br0t0s/Dotfiles/tree/main/.config/i3)
+- [Polybar](https://github.com/br0t0s//Dotfiles/tree/main/.config/polybar)
+- [Neofetch](https://github.com/br0t0s/Dotfiles/tree/main/.config/neofetch)
 
 ## Manage Dot
 <details>
